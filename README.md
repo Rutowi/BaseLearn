@@ -1,11 +1,6 @@
-# 🚀 Base Learn - Complete Blockchain Development Mastery
+# Base Learn - Complete Blockchain Development Mastery
 
-[![Base Learn](https://img.shields.io/badge/Base-Learn-0052FF)](https://docs.base.org/learn)
-[![Solidity](https://img.shields.io/badge/Solidity-0.8.24-363636)](https://soliditylang.org/)
-[![Hardhat](https://img.shields.io/badge/Hardhat-2.19.0-FFF100)](https://hardhat.org/)
-[![Tests](https://img.shields.io/badge/Tests-135%2B_Passing-00D26A)](https://github.com/Rutowi/BaseLearn)
-
-> **🏆 Complete Base Learn curriculum implementation with all contracts deployed and verified on Base Sepolia**
+> Complete Base Learn curriculum implementation with all contracts deployed and verified on Base Sepolia
 
 Ce repository démontre la **maîtrise complète** du curriculum Base Learn avec tous les modules implémentés, testés et déployés sur Base Network.
 
@@ -237,7 +232,4 @@ Ce projet est sous licence MIT - voir le fichier [LICENSE](LICENSE) pour plus de
 
 ---
 
-**🚀 Ready to build on Base? Start with this complete foundation and take your blockchain development skills to the next level!**
-
-[![Deploy on Base](https://img.shields.io/badge/Deploy_on-Base-0052FF)](https://docs.base.org/using-base)
-[![Learn More](https://img.shields.io/badge/Learn-Base_Learn-00D4AA)](https://docs.base.org/learn)
+**Ready to build on Base? Start with this complete foundation and take your blockchain development skills to the next level!**
