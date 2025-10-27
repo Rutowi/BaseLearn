@@ -1,0 +1,20 @@
+{
+  "network": "base-sepolia",
+  "contractName": "ControlStructures",
+  "address": "0x816fc548b5095c040BB91Adb3C26790AE9A3aD47",
+  "deployer": "0x2242a4d8945A28d89e7B5FE5DA0B9Fe03a5cE86c",
+  "timestamp": "2025-10-27T20:22:54.298Z",
+  "transactionHash": "0x404924e0be69a745c5a3f04e37222a328e1bd91be34ad3859f19beb046023499",
+  "blockNumber": null,
+  "gasUsed": "To be verified on BaseScan",
+  "purpose": "Module 3: Demonstrate all Solidity control structures and error handling",
+  "curriculum": "Base Learn - docs.base.org/learn/control-structures/control-structures",
+  "features": [
+    "Conditional structures: if, else if, else",
+    "Iterative structures: for, while loops",
+    "Flow control: continue, break, return",
+    "Error handling: require, revert, custom errors, assert",
+    "Modifiers for access control and validation",
+    "Complex control flow examples"
+  ]
+}

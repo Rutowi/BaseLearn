@@ -1,0 +1,10 @@
+{
+  "contractName": "BaseLearnToken",
+  "address": "0xb62CFBF1B7f5EC4B41155e6DecBc582F6B43083f",
+  "network": "base-sepolia",
+  "deployer": "0x2242a4d8945A28d89e7B5FE5DA0B9Fe03a5cE86c",
+  "deploymentTime": "2025-10-27T20:46:18.368Z",
+  "initialSupply": "5000000",
+  "symbol": "BLT",
+  "maxSupply": "1000000000"
+}

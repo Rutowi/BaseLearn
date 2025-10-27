@@ -1,0 +1,26 @@
+{
+  "network": "base-sepolia",
+  "contractName": "DataStorage",
+  "address": "0x7a3A5Fa7950F884BE0D84C83Fc29ae5ca9acb43a",
+  "deployer": "0x2242a4d8945A28d89e7B5FE5DA0B9Fe03a5cE86c",
+  "timestamp": "2025-10-27T20:28:26.407Z",
+  "transactionHash": "0xe867603e1d0d550b6e1212e7942cb5e1a82407d57fc0560e20348eed04f007d9",
+  "blockNumber": null,
+  "gasUsed": "To be verified on BaseScan",
+  "purpose": "Module 4: Demonstrate Solidity data storage concepts and gas optimization",
+  "curriculum": "Base Learn - docs.base.org/learn/storage/simple-storage-sbs",
+  "constructorParams": {
+    "name": "Base Learn Storage Demo",
+    "age": 25,
+    "cars": 2,
+    "balance": 1000
+  },
+  "features": [
+    "Storage vs Memory vs Stack demonstrations",
+    "Variable packing optimization",
+    "Gas-efficient storage patterns",
+    "Arrays and Mappings storage",
+    "Constructor with parameters",
+    "Storage slots and layout analysis"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "network": "base-sepolia",
+  "contractName": "BasicTypes",
+  "address": "0x228a0DaB4f0b926602636433e5Fab134e6F3848D",
+  "deployer": "0x2242a4d8945A28d89e7B5FE5DA0B9Fe03a5cE86c",
+  "timestamp": "2025-10-27T20:19:14.639Z",
+  "transactionHash": "0xa249bf6a61c51c8bbdfb39f09ed0492ddaea7384a93603c4a9af5ee29c66a05b",
+  "blockNumber": null,
+  "gasUsed": "To be verified on BaseScan",
+  "purpose": "Module 2: Demonstrate all Solidity basic data types",
+  "curriculum": "Base Learn - docs.base.org/learn/basic-types"
+}
