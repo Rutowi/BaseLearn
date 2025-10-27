@@ -1,0 +1,33 @@
+{
+  "timestamp": "2025-10-27T22:02:49.202Z",
+  "network": "base-sepolia",
+  "deployer": "0x2242a4d8945A28d89e7B5FE5DA0B9Fe03a5cE86c",
+  "exercises": [
+    {
+      "exercise": "DeployingToTestnet",
+      "address": "0xbd2A9EaCa396c209D84E5e193ea875B5370a5bC3",
+      "targetNFT": "Basic Contracts Pin"
+    },
+    {
+      "exercise": "ControlStructures",
+      "address": "0xeF1307CA01684e66fB514C413eAc7213E2AeA778",
+      "targetNFT": "Control Structures Pin"
+    },
+    {
+      "exercise": "StorageExercise",
+      "address": "0x019D808e343F9eD7D7989D650Ba3d0cfECf1Eaf8",
+      "targetNFT": "Storage Pin"
+    },
+    {
+      "exercise": "ArraysExercise",
+      "address": "0xf8f549FA730aF78900741FC0C960aC7bbAb6b31e",
+      "targetNFT": "Arrays Pin"
+    }
+  ],
+  "baseLearnTestContracts": {
+    "Deploying to a Testnet": "0x075eB9Dc52177Aa3492E1D26f0fDE3d729625d2F",
+    "Control Structures": "0xF4D953A3976F392aA5509612DEfF395983f22a84",
+    "Storage": "0x567452C6638c0D2D9778C20a3D59749FDCaa7aB3",
+    "Arrays": "0x5B0F80cA6f5bD60Cc3b64F0377f336B2B2A56CdF"
+  }
+}
